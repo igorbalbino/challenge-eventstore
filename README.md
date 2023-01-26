@@ -1,3 +1,11 @@
+# Igor Balbino's Challenge
+
+## Here is my solution:
+
+This implementation is storing the events in memory using a List and it's using the Iterator pattern to implement the query method. Also, this implementation assumes that there's an Event class with getType() and getTimestamp() methods.
+
+# ################### Original Text ###################
+
 # Implement EventStore
 
 In this challenge, you will create a class that implements the `EventStore` 
